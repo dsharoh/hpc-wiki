@@ -1,3 +1,3 @@
 # hpc-wiki-v2
 
-The new HPC wiki
+This is just a placeholder for creating `gh-pages` branch.
